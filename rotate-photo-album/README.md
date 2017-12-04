@@ -1,2 +1,2 @@
 效果图
-![](http://images.extlight.com/css3-3d-photos.gif)
+![](http://ow97db1io.bkt.clouddn.com/css3-3d-photos.gif)
