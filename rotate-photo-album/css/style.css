@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #000;
+}
+
+.container {
+    perspective: 1500px;
+}
+
+.images {
+    width: 100px;
+    height: 100px;
+    margin: 150px auto;
+    position: relative;
+    transform: rotateX(-20deg);
+    transform-style: preserve-3d;
+}
+
+.images img {
+    position: absolute;
+    box-shadow: 0 0 8px #eee;
+}
